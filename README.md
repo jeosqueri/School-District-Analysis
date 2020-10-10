@@ -43,16 +43,20 @@ Average Reading Scores by Grade
 
 
 Scores by School Spending
+
 <img width="829" alt="ScoresbySpending" src="https://user-images.githubusercontent.com/69160361/95641321-dc0d6100-0a5e-11eb-80af-58fd91cb0009.png">
 
 Scores by School Size
+
 <img width="775" alt="ScoresbySize" src="https://user-images.githubusercontent.com/69160361/95641493-dd8b5900-0a5f-11eb-9e28-25c8d7507a13.png">
 
 Scores by School Type
+
 <img width="732" alt="ScoresbyType" src="https://user-images.githubusercontent.com/69160361/95641495-e7ad5780-0a5f-11eb-835c-45f6a9d88017.png">
 
 
 Project Writeup
+
 Describe two observable trends based on data
 
 1) Charter schools outperform District schools significantly on average test scores and percentage of students passing. 
@@ -66,10 +70,13 @@ student actually have better scores than schools who spend the most per student.
 financial resources should be re-examined, to see if there is a better way to spend that money (such as decreasing the
 per student budget, but increasing funding for school resources to help with testing).
 
-Conclusion: To maximize student performance across all schools in the district, District type schools should be prioritized
+Conclusion
+
+To maximize student performance across all schools in the district, District type schools should be prioritized
 because of the significant difference between District and Charter schools in terms of student scores. The data indicates that per student budget does not need to be greater than $584, and schools who are spending more than that per student may want to consider reallocating those financial resources since they do not seem to help student performance. School size is also a factor, and the data shows that students at large(2000-5000 total students) schools perform the worst. This suggests that large schools should also be prioritized when trying to implement changes to improve student test performance.
 
 Jupyter Notebook
+
 The jupyter notebook for this project can be found at the link below:
 
 https://github.com/jeosqueri/pandas_challenge
