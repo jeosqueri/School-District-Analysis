@@ -1,17 +1,18 @@
 # pandas_challenge
 
-The goal of this project was to look at two datasets and create multiple DataFrames to analyze different metrics
-for schools and their students. 
-
 Table of Contents
 - Project Description
 - DataFrame Screenshots
 - Project Writeup
+- Jupyter Notebook
 
 Project Description
 
-The jupyter notebook code for this project can be found in the PyCitySchools folder. Included below are screenshots of
-all the DataFrames created for this project for viewing ease.
+The goal of this project was to analyze standardized test results and other metrics for a city's school district. I was tasked
+with creating multiple DataFrames/summary reports for the schools and their students, and to analyze student performance
+based on a variety of subgroupings to see what factors effect standardized test scores. The results provide valueable
+information that can help inform decisions regarding school budgets and priorities, and help us understand what factors
+influence student performance.
 
 DataFrame Screenshots
 
@@ -54,9 +55,21 @@ Scores by School Type
 Project Writeup
 Describe two observable trends based on data
 
-1) Charter schools outperform District schools significantly on average scores and percentage of students passing. 
+1) Charter schools outperform District schools significantly on average test scores and percentage of students passing. 
 This is most observable when you compare the % of overall passing (% of students passing both math and reading), 
-where charter schools have a 90% overall passing rate and district schools have a 53% overall passing rate.
+where charter schools have a 90% overall passing rate and district schools have a 53% overall passing rate. Further,
+the top 5 performing schools (measured by % overall passing) are all Charter schools, and the bottom 5 schools are
+all District type. This suggests that improving the test scores in District schools is a higher priority than for Charter schools, whose students are performing very well.
 
 2) Per student budget has an effect on average scores, but not in the way one might assume. Schools who spend less per 
-student actually have better scores than schools who spend the most per student. Based on this data set, if you wanted to maximize your changes of attending a school with high scoring students, you would want to attend a small charter scool with a per student budget of $584 or less.
+student actually have better scores than schools who spend the most per student. This suggests that the allocation of
+financial resources should be re-examined, to see if there is a better way to spend that money (such as decreasing the
+per student budget, but increasing funding for school resources to help with testing).
+
+Conclusion: To maximize student performance across all schools in the district, District type schools should be prioritized
+because of the significant difference between District and Charter schools in terms of student scores. The data indicates that per student budget does not need to be greater than $584, and schools who are spending more than that per student may want to consider reallocating those financial resources since they do not seem to help student performance. School size is also a factor, and the data shows that students at large(2000-5000 total students) schools perform the worst. This suggests that large schools should also be prioritized when trying to implement changes to improve student test performance.
+
+Jupyter Notebook
+The jupyter notebook for this project can be found at the link below:
+
+https://github.com/jeosqueri/pandas_challenge
