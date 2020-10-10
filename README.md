@@ -21,10 +21,18 @@ Bottom Performing Schools (By % Overall Passing)
 <img width="1000" alt="BottomSchools" src="https://user-images.githubusercontent.com/69160361/95664388-a02cd700-0b04-11eb-834a-5d184b45e7f6.png">
 
 Average Math Scores by Grade
+
+
 <img width="446" alt="MathScoresbyGrade" src="https://user-images.githubusercontent.com/69160361/95664392-ade25c80-0b04-11eb-82f4-5a89bfc7e3a1.png">
 
+
+
 Average Reading Scores by Grade
+
+
 <img width="444" alt="ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/69160361/95664397-b9ce1e80-0b04-11eb-8c97-cfd47714e3f7.png">
+
+
 
 Scores by School Spending
 <img width="829" alt="ScoresbySpending" src="https://user-images.githubusercontent.com/69160361/95641321-dc0d6100-0a5e-11eb-80af-58fd91cb0009.png">
